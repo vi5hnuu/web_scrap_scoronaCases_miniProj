@@ -1,0 +1,14 @@
+{
+  "name": "web_scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "corona.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vi5hnu",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
